@@ -37,11 +37,11 @@ Bestie é um aplicativo para mulheres que mestruam, auxiliando no uso correto do
 * Watch Connectivity
 * Notification Center
 
-# HomeOrganizer
+# Tasky
 
 ## Sobre o projeto
 
-HomeOrganizer é um aplicativo que te ajuda numa melhor convivência dentro de sua residência com outros membros do lar. No aplicativo, você e outros membros podem criar tarefas, determinar  o tempo para elas serem concluídas e definir quer irá cumprí-las. Além disso, podemos ver o histórico de cada pessoa, quantas tarefas foram realizadas e quantas ainda faltam, além de outras funcionalidades, como por exemplo, um market place, para que os membros se sintam motivados a ajudarem nas tarefas do dia a dia.
+Tasky é um aplicativo que te ajuda numa melhor convivência dentro de sua residência com outros membros do lar. No aplicativo, você e outros membros podem criar tarefas, determinar  o tempo para elas serem concluídas e definir quer irá cumprí-las. Além disso, podemos ver o histórico de cada pessoa, quantas tarefas foram realizadas e quantas ainda faltam, além de outras funcionalidades, como por exemplo, um market place, para que os membros se sintam motivados a ajudarem nas tarefas do dia a dia.
 
 ## Layout Mobile
 <img src="https://github.com/LucianaVitoria/Portfolio/blob/main/assets/task1.png" alt="Descrição da Imagem" width="220" height="476"> <img src="https://github.com/LucianaVitoria/Portfolio/blob/main/assets/task2.png" alt="Descrição da Imagem" width="220" height="476"> <img src="https://github.com/LucianaVitoria/Portfolio/blob/main/assets/task3.png" alt="Descrição da Imagem" width="220" height="476">
